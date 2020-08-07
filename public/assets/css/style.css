@@ -1,5 +1,7 @@
-html {
-  
+body {
+  background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url('https://ae01.alicdn.com/kf/HTB1_XykeCrqK1RjSZK9q6xyypXaA/beibehang-3d-wallpaper-wall-burger-fast-food-restaurant-wallpaper-home-decor-wall-papers-home-decor-wallpaper.jpg_960x960.jpg')
+    center center;
+    background-size: cover;
 }
 li {
   padding: 5px;
