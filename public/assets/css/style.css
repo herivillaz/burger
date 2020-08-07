@@ -45,3 +45,25 @@ img
   .create-form {
     text-align: center;
   }
+  .change-devour {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   
+  }
+  .delete-burger {
+  background-color: #f44336;
+  border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   
+  }
