@@ -7,6 +7,10 @@ li {
   padding: 5px;
   margin: 5px;
   background: #faebd7;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+justify-content: space-between;
 }
 
 .label {
@@ -54,6 +58,7 @@ img
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    margin-left: 50px;
    
   }
   .delete-burger {
@@ -65,5 +70,18 @@ img
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+   margin-left: 10px;
    
   }
+
+  .addburger {
+    background-color: #eff30e;
+    border: none;
+      color: black;
+      padding: 10px 15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+     margin-left: 10px;
+    }
