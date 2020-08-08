@@ -1,5 +1,6 @@
-# burger
+# Eat da' burger
 A restaurant app that lets users input the names of burgers they'd like to eat.
+[Eat Da Burger](https://sheltered-shore-18370.herokuapp.com/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
