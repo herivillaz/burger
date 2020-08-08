@@ -17,7 +17,7 @@ A restaurant app that lets users input the names of burgers they'd like to eat.
 
 ![addBurger](/assets/addburger.png)
 
-![addingburger](/assets/adding burger.png)
+![addingburger](/assets/addingburger.png)
 
 * Devour and deleting burger:
 
