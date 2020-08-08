@@ -5,7 +5,7 @@ A restaurant app that lets users input the names of burgers they'd like to eat.
 
 * **The final and deployed page looks like this**
 
-![Home Page](/Assets/homepage.png)
+![Home Page](/assets/homepage.png)
 
 
 ### You can access here: [Eat Da Burger](https://sheltered-shore-18370.herokuapp.com/)
