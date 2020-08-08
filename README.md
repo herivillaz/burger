@@ -16,8 +16,11 @@ A restaurant app that lets users input the names of burgers they'd like to eat.
 
 ![addBurger](/assets/addburger.png)
 
+![addingburger](/assets/adding burger.png)
+
 * Devour and deleting burger:
-* ![Devour burger](/assets/devour.png)
+
+![Devour burger](/assets/devour.png)
 
 This project was made taking in consideration the requirements from Columbia Coding Boot Camp:
 
@@ -32,10 +35,16 @@ When trying to connect remotely to your Heroku database on an open network such 
 
 # Description
 
-In the Business Context For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
+* Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
+
+* Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured.
+
+* Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page.
+
+* Your app will store every burger in a database, whether devoured or not.
 
 # Usage
-In your commandline, while in the directory where your server.js file is, run "node server.js". Output will be generated in the directory output with name "team.html"
+You can go to the main page on top, but if you want to test it as a developer, In your commandline, while in the directory where your server.js file is, run "node server.js". Output will be generated in localhost:8080
 
 # Contribution
 If you would like to contribute please create an issue. Alternatively, clone this repo and make modifications to your copy.
@@ -47,7 +56,7 @@ Remember, you can run the tests at any time with `npm run test`
 * Heribert Villazana
 * Github: herivillaz
 
-![Repo Owner Image](https://avatars.githubusercontent.com/herivillaz?s=100)
+![Repo Owner Image](https://avatars.githubusercontent.com/herivillaz?s=200)
 
 ## Contact
 herivillaz@gmail.com
